@@ -1,3 +1,12 @@
-## Sayam's Blog
+---
+publish: true
+layout: post
+title: CSS Tricks
+---
 
-#Nothing much to show as of yet
+#CSS TRICKS
+
+*   Water
+*   Air
+*   Fire
+*   Earth
