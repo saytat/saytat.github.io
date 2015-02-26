@@ -1,10 +1,8 @@
 ---
 published: true
----
-
-
 layout: post
-title: CHECK
+title: OK!
+---
 
 
 #Here's to you Kid
