@@ -3,8 +3,8 @@ published: true
 ---
 
 ---
-layout: Post
-title: Second
+layout: post
+title: CHECK
 ---
 
 #Here's to you Kid
